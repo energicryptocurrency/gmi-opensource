@@ -1,0 +1,23 @@
+{
+	"name": "My First NFT #1",
+	"description": "This is My First NFT. I am creating to test GMI Marketplace.",
+	"image": "ipfs://QmdF..gtmv/1.jpg",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Red"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Yellow Eyes"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Thunderstorm"
+		},
+		{
+			"trait_type": "Expression",
+			"value": "Smile"
+		}
+	]
+}
