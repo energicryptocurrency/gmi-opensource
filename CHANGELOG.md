@@ -4,7 +4,7 @@
 
 ### New
 
-- Added [Basic NFT Contract](./projects/1-basic-nft-contract/)
-- Added [Upgraded NFT Contract](./projects/2-upgradeable-nft-contract/)
+- Added [Basic NFT Contract](./projects/001-basic-nft-contract/)
+- Added [Upgraded NFT Contract](./projects/002-upgradeable-nft-contract/)
 - Added [Config for Hardhat](./sdk/hardhat/)
 - Added [Config for Truffle](./sdk/truffle/)

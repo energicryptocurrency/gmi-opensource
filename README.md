@@ -12,8 +12,8 @@ The top level folder will have a sample project. Each project will have followin
 
 Here are some of the projects in the repository:
 
-- [Basic Smart Contract](./projects/1-basic-nft-contract/)
-- [Upgradable Smart Contract](./projects/2-upgradeable-nft-contract)
+- [Basic Smart Contract](./projects/001-basic-nft-contract/)
+- [Upgradable Smart Contract](./projects/002-upgradeable-nft-contract)
 
 ## SDKs
 
